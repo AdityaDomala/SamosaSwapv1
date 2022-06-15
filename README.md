@@ -1,4 +1,4 @@
-# Samosaswapv1
+# SamosaSwapv1
 Swap Your cryptocurrencies instantly
 
 It's a version 1
